@@ -1,9 +1,9 @@
 Menu Vacances
 
 Lundi: Pates
-Mardi: Dinde
+Mardi: Restaurant
 Mercredi: Saucisses
-Jeudi: Poissson
+Jeudi: Pique Nique
 vendredi: Chèvres chauds
 Samedi: Boeuf Bourguignon
-Dimanche: Régime, salade verte
+Dimanche: Restaurant végétarien
